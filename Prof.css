@@ -149,11 +149,11 @@
   #image {
     max-width: 35%;
     display: block;
-    height: 450px;
+    height: 60%;
     margin: 0 auto;
   }
 
-@media (max-width: 50.75em) {
+@media (max-width: 50em) {
   #image {
     max-width: 40%;
     height: 250px;
