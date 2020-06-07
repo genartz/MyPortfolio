@@ -153,9 +153,9 @@
     margin: 0 auto;
   }
 
-@media (max-width: 28.75em) {
+@media (max-width: 50.75em) {
   #image {
-    max-width: 50%;
+    max-width: 40%;
     height: 250px;
   }
   }
